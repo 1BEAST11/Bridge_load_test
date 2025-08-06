@@ -1,0 +1,22 @@
+BASE_URL =
+
+# токен авторизации
+AUTH_TOKEN =
+
+# основные данные аккаунта
+LOGIN =
+PASSWORD =
+DEVICE_ID =
+USER_ID =
+NO_D =
+
+# данные для запроса на подключение услуги
+CITY =
+SERVICE =
+FIO =
+PHONE =
+ADDRESS =
+
+# дата начала и конца периода платежей
+PAYMENT_START =
+PAYMENT_END =

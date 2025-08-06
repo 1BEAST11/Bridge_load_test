@@ -1,0 +1,1 @@
+from routes.routes import auth, balance, service_connect, payment_details, tariff_info
